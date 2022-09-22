@@ -7,7 +7,7 @@ const players = {
     challenges: ['none'],
     tribeColor: '#ffea42',
     tribe: 'Baka Tribe',
-    moves: ['none']
+    moves: ['']
   },
   2 : {
     name: 'Jeanine Zheng',
@@ -16,7 +16,7 @@ const players = {
     challenges: ['none'],
     tribeColor: '#ffea42',
     tribe: 'Baka Tribe',
-    moves: ['none']
+    moves: ['']
   },
   3 : {
     name: 'Mike Gabler',
@@ -25,7 +25,7 @@ const players = {
     challenges: ['none'],
     tribeColor: '#ffea42',
     tribe: 'Baka Tribe',
-    moves: ['none']
+    moves: ['']
   },
   4 : {
     name: 'Morriah Young',
@@ -34,7 +34,7 @@ const players = {
     challenges: ['none'],
     tribeColor: '#ffea42',
     tribe: 'Baka Tribe',
-    moves: ['none']
+    moves: ['']
   },
   5 : {
     name: 'Owen Knight',
@@ -43,7 +43,7 @@ const players = {
     challenges: ['none'],
     tribeColor: '#ffea42',
     tribe: 'Baka Tribe',
-    moves: ['none']
+    moves: ['']
   },
   6 : {
     name: 'Sami Layadi',
@@ -52,7 +52,7 @@ const players = {
     challenges: ['none'],
     tribeColor: '#ffea42',
     tribe: 'Baka Tribe',
-    moves: ['none']
+    moves: ['']
   },
   7 : {
     name: 'Cassidy Clark',
@@ -61,7 +61,7 @@ const players = {
     challenges: ['none'],
     tribeColor: '#27c0e5',
     tribe: 'Coco Tribe',
-    moves: ['none']
+    moves: ['']
   },
   8 : {
     name: 'Geo Bustamante',
@@ -70,7 +70,7 @@ const players = {
     challenges: ['none'],
     tribeColor: '#27c0e5',
     tribe: 'Coco Tribe',
-    moves: ['none']
+    moves: ['']
   },
   9 : {
     name: 'James Jones',
@@ -79,7 +79,7 @@ const players = {
     challenges: ['none'],
     tribeColor: '#27c0e5',
     tribe: 'Coco Tribe',
-    moves: ['none']
+    moves: ['']
   },
   10 : {
     name: 'Karla Cruz Godoy',
@@ -88,7 +88,7 @@ const players = {
     challenges: ['none'],
     tribeColor: '#27c0e5',
     tribe: 'Coco Tribe',
-    moves: ['none']
+    moves: ['']
   },
   11 : {
     name: 'Lindsay Carmine',
@@ -97,7 +97,7 @@ const players = {
     challenges: ['none'],
     tribeColor: '#27c0e5',
     tribe: 'Coco Tribe',
-    moves: ['none']
+    moves: ['']
   },
   12 : {
     name: 'Ryan Medrano',
@@ -106,7 +106,7 @@ const players = {
     challenges: ['none'],
     tribeColor: '#27c0e5',
     tribe: 'Coco Tribe',
-    moves: ['none']
+    moves: ['']
   },
   13 : {
     name: 'Cody Assenmacher',
@@ -115,7 +115,7 @@ const players = {
     challenges: ['none'],
     tribeColor: '#f33d3d',
     tribe: 'Vesi Tribe',
-    moves: ['none']
+    moves: ['']
   },
   14 : {
     name: 'Dwight Moore',
@@ -124,7 +124,7 @@ const players = {
     challenges: ['none'],
     tribeColor: '#f33d3d',
     tribe: 'Vesi Tribe',
-    moves: ['none']
+    moves: ['']
   },
   15 : {
     name: 'Jesse Lopez',
@@ -133,7 +133,7 @@ const players = {
     challenges: ['none'],
     tribeColor: '#f33d3d',
     tribe: 'Vesi Tribe',
-    moves: ['none']
+    moves: ['']
   },
   16 : {
     name: 'Justine Brennan',
@@ -142,7 +142,7 @@ const players = {
     challenges: ['none'],
     tribeColor: '#f33d3d',
     tribe: 'Vesi Tribe',
-    moves: ['none']
+    moves: ['']
   },
   17 : {
     name: 'Nneka Ejere',
@@ -151,7 +151,7 @@ const players = {
     challenges: ['none'],
     tribeColor: '#f33d3d',
     tribe: 'Vesi Tribe',
-    moves: ['none']
+    moves: ['']
   },
   18 : {
     name: 'Noelle Lambert',
@@ -160,7 +160,7 @@ const players = {
     challenges: ['none'],
     tribeColor: '#f33d3d',
     tribe: 'Vesi Tribe',
-    moves: ['none']
+    moves: ['']
   }
 
 }
