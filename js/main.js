@@ -7,7 +7,7 @@ const players = {
     challenges: ['none'],
     tribeColor: '#ffea42',
     tribe: 'Baka Tribe',
-    moves: ['']
+    moves: ['Leading Vote to get out Morriah']
   },
   2 : {
     name: 'Jeanine Zheng',
@@ -29,7 +29,7 @@ const players = {
   },
   4 : {
     name: 'Morriah Young',
-    alive: true,
+    alive: false,
     img: './assets/images/morriahYoung.jpg',
     challenges: ['none'],
     tribeColor: '#ffea42',
@@ -70,7 +70,7 @@ const players = {
     challenges: ['none'],
     tribeColor: '#27c0e5',
     tribe: 'Coco Tribe',
-    moves: ['']
+    moves: ['Checked under bench while sitting out']
   },
   9 : {
     name: 'James Jones',
@@ -88,7 +88,7 @@ const players = {
     challenges: ['none'],
     tribeColor: '#27c0e5',
     tribe: 'Coco Tribe',
-    moves: ['']
+    moves: ['Convinced team to give her their beads via trading']
   },
   11 : {
     name: 'Lindsay Carmine',
@@ -115,7 +115,7 @@ const players = {
     challenges: ['none'],
     tribeColor: '#f33d3d',
     tribe: 'Vesi Tribe',
-    moves: ['']
+    moves: ['Got dwight and Nneka to guilt team to give him their beads', 'Salesman are bad while being a salesman getting Justine a target']
   },
   14 : {
     name: 'Dwight Moore',
@@ -137,7 +137,7 @@ const players = {
   },
   16 : {
     name: 'Justine Brennan',
-    alive: true,
+    alive: false,
     img: './assets/images/justineBrennan.jpg',
     challenges: ['none'],
     tribeColor: '#f33d3d',
@@ -146,7 +146,7 @@ const players = {
   },
   17 : {
     name: 'Nneka Ejere',
-    alive: true,
+    alive: false,
     img: './assets/images/nnekaEjere.jpg',
     challenges: ['none'],
     tribeColor: '#f33d3d',
@@ -160,7 +160,7 @@ const players = {
     challenges: ['none'],
     tribeColor: '#f33d3d',
     tribe: 'Vesi Tribe',
-    moves: ['']
+    moves: ['Got sent to the island and able to safely secure advantage', 'Came back from island and turned entire team to vote Nneka']
   }
 
 }
