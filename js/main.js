@@ -4,7 +4,7 @@ const players = {
     name: 'Elie Scott',
     alive: true,
     img: './assets/images/elieScott.jpg',
-    challenges: ['none'],
+    challenges: ['Team Baka Win: Episodes 2-3'],
     tribeColor: '#ffea42',
     tribe: 'Baka Tribe',
     moves: ['Leading Vote to get out Morriah']
@@ -13,7 +13,7 @@ const players = {
     name: 'Jeanine Zheng',
     alive: true,
     img: './assets/images/jeanineZheng.jpg',
-    challenges: ['none'],
+    challenges: ['Team Baka Win: Episodes 2-3'],
     tribeColor: '#ffea42',
     tribe: 'Baka Tribe',
     moves: ['']
@@ -22,7 +22,7 @@ const players = {
     name: 'Mike Gabler',
     alive: true,
     img: './assets/images/mikeGabler.jpg',
-    challenges: ['none'],
+    challenges: ['Team Baka Win: Episodes 2-3'],
     tribeColor: '#ffea42',
     tribe: 'Baka Tribe',
     moves: ['']
@@ -40,7 +40,7 @@ const players = {
     name: 'Owen Knight',
     alive: true,
     img: './assets/images/owenKnight.jpg',
-    challenges: ['none'],
+    challenges: ['Team Baka Win: Episodes 2-3'],
     tribeColor: '#ffea42',
     tribe: 'Baka Tribe',
     moves: ['']
@@ -49,7 +49,7 @@ const players = {
     name: 'Sami Layadi',
     alive: true,
     img: './assets/images/samiLayadi.jpg',
-    challenges: ['none'],
+    challenges: ['Team Baka Win: Episodes 2-3'],
     tribeColor: '#ffea42',
     tribe: 'Baka Tribe',
     moves: ['']
@@ -112,7 +112,7 @@ const players = {
     name: 'Cody Assenmacher',
     alive: true,
     img: './assets/images/codyAssenmacher.jpg',
-    challenges: ['none'],
+    challenges: ['Team Vesi Win: Episode 1'],
     tribeColor: '#f33d3d',
     tribe: 'Vesi Tribe',
     moves: ['Got dwight and Nneka to guilt team to give him their beads', 'Salesman are bad while being a salesman getting Justine a target']
@@ -121,7 +121,7 @@ const players = {
     name: 'Dwight Moore',
     alive: true,
     img: './assets/images/dwightMoore.jpg',
-    challenges: ['none'],
+    challenges: ['Team Vesi Win: Episode 1'],
     tribeColor: '#f33d3d',
     tribe: 'Vesi Tribe',
     moves: ['']
@@ -130,7 +130,7 @@ const players = {
     name: 'Jesse Lopez',
     alive: true,
     img: './assets/images/jesseLopez.jpg',
-    challenges: ['none'],
+    challenges: ['Team Vesi Win: Episode 1'],
     tribeColor: '#f33d3d',
     tribe: 'Vesi Tribe',
     moves: ['']
@@ -139,7 +139,7 @@ const players = {
     name: 'Justine Brennan',
     alive: false,
     img: './assets/images/justineBrennan.jpg',
-    challenges: ['none'],
+    challenges: ['Team Vesi Win: Episode 1'],
     tribeColor: '#f33d3d',
     tribe: 'Vesi Tribe',
     moves: ['']
@@ -148,7 +148,7 @@ const players = {
     name: 'Nneka Ejere',
     alive: false,
     img: './assets/images/nnekaEjere.jpg',
-    challenges: ['none'],
+    challenges: ['Team Vesi Win: Episode 1'],
     tribeColor: '#f33d3d',
     tribe: 'Vesi Tribe',
     moves: ['']
@@ -157,7 +157,7 @@ const players = {
     name: 'Noelle Lambert',
     alive: true,
     img: './assets/images/noelleLambert.jpg',
-    challenges: ['none'],
+    challenges: ['Team Vesi Win: Episode 1'],
     tribeColor: '#f33d3d',
     tribe: 'Vesi Tribe',
     moves: ['Got sent to the island and able to safely secure advantage', 'Came back from island and turned entire team to vote Nneka']
