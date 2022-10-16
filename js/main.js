@@ -70,7 +70,7 @@ const players = {
     challenges: ['none'],
     tribeColor: '#27c0e5',
     tribe: 'Coco Tribe',
-    moves: ['Checked under bench while sitting out']
+    moves: ['Checked under bench while sitting out', 'Obtained knowledge is power advantage and then instantly voted out']
   },
   9 : {
     name: 'James Jones',
