@@ -92,7 +92,7 @@ const players = {
   },
   11 : {
     name: 'Lindsay Carmine',
-    alive: true,
+    alive: false,
     img: './assets/images/lindsayCarmine.jpg',
     challenges: ['none'],
     tribeColor: '#27c0e5',
