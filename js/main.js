@@ -65,7 +65,7 @@ const players = {
   },
   8 : {
     name: 'Geo Bustamante',
-    alive: true,
+    alive: false,
     img: './assets/images/geoBustamante.jpg',
     challenges: ['none'],
     tribeColor: '#27c0e5',
