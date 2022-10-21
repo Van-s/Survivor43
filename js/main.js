@@ -97,7 +97,7 @@ const players = {
     challenges: ['none'],
     tribeColor: '#27c0e5',
     tribe: 'Coco Tribe',
-    moves: ['']
+    moves: ['Whole team was ready to vote Geo and in twist of events Lindsay went so paranoid convincing her team to switch and vote her out']
   },
   12 : {
     name: 'Ryan Medrano',
