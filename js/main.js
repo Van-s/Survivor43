@@ -112,7 +112,7 @@ const players = {
     name: 'Cody Assenmacher',
     alive: true,
     img: './assets/images/codyAssenmacher.jpg',
-    challenges: ['Team Vesi Win: Episode 1'],
+    challenges: ['Team Vesi Win: Episode 1, 4, 5'],
     tribeColor: '#f33d3d',
     tribe: 'Vesi Tribe',
     moves: ['Got dwight and Nneka to guilt team to give him their beads', 'Salesman are bad while being a salesman getting Justine a target']
@@ -121,7 +121,7 @@ const players = {
     name: 'Dwight Moore',
     alive: true,
     img: './assets/images/dwightMoore.jpg',
-    challenges: ['Team Vesi Win: Episode 1'],
+    challenges: ['Team Vesi Win: Episode 1, 4, 5'],
     tribeColor: '#f33d3d',
     tribe: 'Vesi Tribe',
     moves: ['']
@@ -130,7 +130,7 @@ const players = {
     name: 'Jesse Lopez',
     alive: true,
     img: './assets/images/jesseLopez.jpg',
-    challenges: ['Team Vesi Win: Episode 1'],
+    challenges: ['Team Vesi Win: Episode 1, 4, 5'],
     tribeColor: '#f33d3d',
     tribe: 'Vesi Tribe',
     moves: ['']
@@ -157,7 +157,7 @@ const players = {
     name: 'Noelle Lambert',
     alive: true,
     img: './assets/images/noelleLambert.jpg',
-    challenges: ['Team Vesi Win: Episode 1'],
+    challenges: ['Team Vesi Win: Episode 1, 4, 5'],
     tribeColor: '#f33d3d',
     tribe: 'Vesi Tribe',
     moves: ['Got sent to the island and able to safely secure advantage', 'Came back from island and turned entire team to vote Nneka']
